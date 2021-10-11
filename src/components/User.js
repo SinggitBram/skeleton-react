@@ -24,7 +24,7 @@ function User() {
         </div>
       )}
 
-      {!profile && <SkeletonProfile />}
+      {!profile && <SkeletonProfile/>}
     </div>
   );
 }
